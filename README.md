@@ -13,4 +13,5 @@ This project calibrates drifting PM2.5 air quality sensors by training machine l
 1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/kaviudari99-jpg/Deep-Learning-Based-Sensor-Calibration---Drift-Compensation)
-   cd YOUR_REPO_NAME
+   cd https://github.com/kaviudari99-jpg/Deep-Learning-Based-Sensor-Calibration---Drift-Compensation
+   
