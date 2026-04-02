@@ -1,0 +1,12 @@
+# Ignore the data folder (users must supply their own data)
+data/
+
+# Ignore generated outputs
+sensor_calibration_results.csv
+calibration_performance_plots.png
+
+# Ignore Python caches
+__pycache__/
+*.pyc
+.env
+venv/
