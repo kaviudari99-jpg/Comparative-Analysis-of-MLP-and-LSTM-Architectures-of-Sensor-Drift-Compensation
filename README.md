@@ -1,4 +1,4 @@
-# PM2.5 Sensor Calibration using Deep Learning
+#LS-Calib: A Latent Space Mapping Approach for Deep Learning Based Sensor Calibration in Seoul's Air Quality Network
 
 This project calibrates drifting PM2.5 air quality sensors by training machine learning models against "truth" sensor data. It compares the performance of Linear Regression, Random Forests, and a Deep Neural Network (MLP).
 
@@ -12,5 +12,6 @@ This project calibrates drifting PM2.5 air quality sensors by training machine l
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
+   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/kaviudari99-jpg/Deep-Learning-Based-Sensor-Calibration---Drift-Compensation)
+   cd https://github.com/kaviudari99-jpg/Deep-Learning-Based-Sensor-Calibration---Drift-Compensation
+   
