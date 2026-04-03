@@ -1,6 +1,6 @@
 
 
-This project calibrates drifting PM2.5 air quality sensors by training machine learning models against "truth" sensor data. It compares the performance of Linear Regression, Random Forests, and a Deep Neural Network (MLP).
+This project calibrates drifting PM2.5 air quality sensors by training DEEP learning models against "truth" sensor data.
 
 ## Features
 - **Temporal Feature Engineering**: Extracts hour and month to account for environmental cycles.
